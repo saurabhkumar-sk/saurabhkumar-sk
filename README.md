@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
 <h3 align="center">A passionate Flutter(Android) Developer from India</h3>
 
-- 🌱 I’m currently learning **JAVA + DSA**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 My Portfolio [https://saurabh-kumar-portfolio.web.app/](https://saurabh-kumar-portfolio.web.app/)
 
