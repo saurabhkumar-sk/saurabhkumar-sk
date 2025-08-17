@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 👨‍💻 My Portfolio [https://saurabh-kumar-portfolio.web.app/](https://saurabh-kumar-portfolio.web.app/)
+- 👨‍💻 My Portfolio [https://saurabh-kumar-portfolio.web.app/](https://saurabhkumar-sk.github.io/portfolio/)
 
 - 💬 Ask me about **Flutter**
 
